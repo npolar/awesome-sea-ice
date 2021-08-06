@@ -6,6 +6,7 @@ Curated list of publicly available sea ice related datasets. There is no intenti
 * [NSIDC, SIC climate data record](https://nsidc.org/data/G02202/versions/3): 25km, both poles, daily/monthly.
 * [OSI-SAF SIC](http://www.osi-saf.org/?q=content/global-sea-ice-concentration-ssmis): 10km, both poles, daily/monthly.
 * [MET Norway](https://cryo.met.no/): Operational ice charts. 40m to 10km varying resolution, working days only, PDFs and images.
+* [ASI-SIC](https://seaice.uni-bremen.de/sea-ice-concentration/amsre-amsr2/): Daily Arctic and Antarctic SIC maps in NETCDF format and images. 10, 6 and 3.25km spatial resolution.
 
 ## Sea ice extent (SIE)
 * [MASIE](https://nsidc.org/data/G02186/versions/1): 1km and 4km sea ice extent, North and South poles.
